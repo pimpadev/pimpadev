@@ -8,6 +8,6 @@ Freelance Fullstack Developer with 10 years of experience building scalable web 
 
 ## 🔎 Where to find me
 
-<p align="center">[Youtube](https://www.youtube.com/@pimpadev) · X · LinkedIn · Instagram</p>
+<p align="center"><a href="https://www.youtube.com/@pimpadev" target="_blank">Youtube</a> · X · LinkedIn · Instagram</p>
 
 ## Tech stack
