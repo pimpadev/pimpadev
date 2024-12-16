@@ -12,9 +12,14 @@ But the most important thing is that I love my work and take pride in delivering
 
 ## 🔎 Where to find me
 
-<p align="center"><a href="https://www.youtube.com/@pimpadev">Youtube</a> · <a href="https://x.com/pimpadev">X</a> · <a href="https://www.linkedin.com/in/pimpadev/">LinkedIn</a> · <a href="https://www.instagram.com/pimpa_dev">Instagram</a></p>
+<p align="center">
+  <a href="https://www.youtube.com/@pimpadev">Youtube</a> · 
+  <a href="https://x.com/pimpadev">X</a> · 
+  <a href="https://www.instagram.com/pimpa_dev">Instagram</a> · 
+  <a href="https://www.linkedin.com/in/pimpadev/">LinkedIn</a> 
+</p>
 
-## Tech stack
+## 💻 Tech stack
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
