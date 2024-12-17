@@ -13,9 +13,9 @@ But the most important thing is that I love my work and take pride in delivering
 ## 🔎 Where to find me
 
 <p align="center">
-  <a href="https://www.youtube.com/@pimpadev">Youtube</a> · 
-  <a href="https://x.com/pimpadev">X</a> · 
-  <a href="https://www.instagram.com/pimpa_dev">Instagram</a> · 
+  <a href="https://www.youtube.com/@pimpadev">Youtube</a> <b>·</b> 
+  <a href="https://x.com/pimpadev">X</a> <b>·</b> 
+  <a href="https://www.instagram.com/pimpa_dev">Instagram</a> <b>·</b> 
   <a href="https://www.linkedin.com/in/pimpadev/">LinkedIn</a> 
 </p>
 
